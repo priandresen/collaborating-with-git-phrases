@@ -8,5 +8,8 @@ def farewell():
 def chat():
     print("How are you Priscilla?")
 
+def photo():
+    print("Say cheese!")
+
 def activity():
     print("We are practicing in git commands!")

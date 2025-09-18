@@ -8,4 +8,6 @@ def farewell():
 def chat():
     print("How are you Priscilla?")
 
+def photo():
+    print("Say cheese!")
     
